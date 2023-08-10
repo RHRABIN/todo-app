@@ -22,7 +22,7 @@ In this project used packages
 
 - User can search for any added todo
 - If any todo title match then todo will be highlighted and animated
-- If not match then todo will be simple
+- If not match then todo will be simple.
 
 ### Add todo input filed
 
